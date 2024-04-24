@@ -36,5 +36,5 @@ def method_name(similar_fun):
             break
 
 
-method_name(similar)
+method_name(similar_built_in)
 method_name(similar_levenshtein)

@@ -3,7 +3,7 @@ def similar_levenshtein(a, b):
     return td.levenshtein.normalized_similarity(a,b)
 
 from difflib import SequenceMatcher
-def similar(a, b):
+def similar_built_in(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
 # print(similar('Genius','genius')) #0.833

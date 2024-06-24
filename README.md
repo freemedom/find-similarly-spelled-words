@@ -44,6 +44,7 @@ disposition: 0.5454545454545454
 等待安装完成textdistance  
 然后，输入python .\find_similar.py
 即可运行
+![image](https://github.com/freemedom/find-similarly-spelled-words/assets/57294686/ad4435ef-3f40-4ed4-975a-b2d301d85b66)
 
 
 

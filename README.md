@@ -35,7 +35,7 @@ disposition: 0.5454545454545454
 # 使用方法（windows）
 
 安装python  
-在下载下来的find_similar.py所在目录，输入powershell打开一个窗口
+打开至下载下来的find_similar.py和a.txt这俩文件所在目录，输入powershell打开一个窗口
 ![image](https://github.com/freemedom/find-similarly-spelled-words/assets/57294686/9588abce-bc5d-4c42-b9eb-144adc76225d)
 ![image](https://github.com/freemedom/find-similarly-spelled-words/assets/57294686/2c7f8e86-1793-4cfd-a466-32acd3caa788)
 

@@ -2,6 +2,7 @@
 Find similarly spelled words
 查找相似拼写写法的单词
 
+a.txt里只有coca词频前1万的单词，如果想要包含更难（或者更少）的单词可以自行修改该文件
 ```
 查找类似拼写的单词，请输入要查找的单词：disposal
 

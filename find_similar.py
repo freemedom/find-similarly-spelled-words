@@ -32,7 +32,7 @@ def method_name(similar_fun):
     for item, ratio in sorted_similarity_dict.items():
         print(f"{item}: {ratio}")
         count += 1
-        if count == 10:
+        if count == 10: # 修改这个数字，可以改变输出的数量。比如说把10改为20，就可以输出最相似的20个。
             break
 
 
